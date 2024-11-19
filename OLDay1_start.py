@@ -145,15 +145,15 @@
 
 
 #### Random Number Generator (lottery) ####
-import random
+# import random
 
 # empty list
-randnums = [] # To have a list of numbers
+# randnums = [] # To have a list of numbers
 
-while len(randnums) < 6:
-    num = random.randint(1, 47)
+# while len(randnums) < 6:
+#     num = random.randint(1, 47)
 
-    if num not in randnums:
-        randnums.append(num)
+#     if num not in randnums:
+#         randnums.append(num)
 
-print(randnums)
+# print(randnums)
