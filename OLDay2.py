@@ -178,12 +178,12 @@ Age accepted.
 
 
 ## Format check ##
-while True:
-    user = input("Enter username: ")
-    if user.islower() == False:
-        print("Invalid input. Username must be in lowercase.")
-    else:
-        print("Username accepted.")
-        print("Hello,", user, "!")
-        break
+# while True:
+#     user = input("Enter username: ")
+#     if user.islower() == False:
+#         print("Invalid input. Username must be in lowercase.")
+#     else:
+#         print("Username accepted.")
+#         print("Hello,", user, "!")
+#         break
 
